@@ -1,2 +1,2 @@
 # RahayuAgustin_MJ5B_TeknikMultimediadanJaringan_Latihan2
-Helo, ini merupakan postingan pertama saya mohon bantuannya
+Flutter adalah framework bersifat open source yang dikembangkan oleh Google untuk membangun aplikasi multi-platform hanya dengan satu codebase. Hasil dari pengembangan aplikasi menggunakan Flutter bisa berupa aplikasi Android, iOS, Desktop, dan Website. Flutter memiliki dua komponen penting yang harus kamu ketahui, Software Development Kit (SDK) dan Framework User Interface.
